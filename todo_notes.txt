@@ -1,0 +1,10 @@
+.note
+
+Hi, there!!
+The code is build to be test the singleton class.
+Testing could be hard in singleton.
+we are simulation the idea using a google test suit
+
+.scope
+1. Build this program to integrate with google test suit
+2. Try to add some more test case with test data
